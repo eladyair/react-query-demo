@@ -1,0 +1,22 @@
+.content {
+    margin: 0 20px;
+}
+
+nav ul {
+    display: flex;
+    background-color: blanchedalmond;
+    margin-top: 0;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+nav ul li {
+    list-style: none;
+    margin-right: 16px;
+}
+
+.parallel-queries-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+}
